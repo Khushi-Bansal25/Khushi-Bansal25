@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Khushi👋
+Turning data into decisions and ideas into impact — exploring Data Science, AI, and Consulting.
 
 <!--
 **Khushi-Bansal25/Khushi-Bansal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
