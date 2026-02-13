@@ -41,12 +41,6 @@ Turning data into decisions and ideas into impact — exploring Data Science, AI
 
 ---
 
-## 📈 GitHub Stats
-
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushi-Bansal25&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/khushi--bansal/) · [GitHub](https://github.com/Khushi-Bansal25) · [Email](mailto:Khushib2511@gmail.com)
